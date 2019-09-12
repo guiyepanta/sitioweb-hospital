@@ -1,0 +1,7 @@
+media:
+linea 221, falta descargar video vimeo
+linea 245, falta descargar video youtube
+linea 300,no encuentra un icono del slider (flechas derecha izquierda)
+
+sliders:
+linea 355, no encuentra un icono del slider (flechas derecha izquierda)
