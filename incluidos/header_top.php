@@ -17,7 +17,7 @@
         </div>
 
         <a href="" class="header_soc_rss" id="soc_rss">RSS</a>
-        <a href="" class="header_soc_fb" id="soc_fb">Facebook</a>
+        <a href="https://www.facebook.com/?stype=lo&jlou=Afc2zVBPHTaksx-hAPg4FBsoEKr3wpuUM31A52HlKgX1bX1Worpx7rdK4D3vJyU2I8tn9NWDUTymATkf3mgrxazoth7bSl_c6FOCeHAWObaK_A&smuh=27173&lh=Ac-m0clfUZ7LquC0" class="header_soc_fb" id="soc_fb">Facebook</a>
         <a href="" class="header_soc_twitter" id="soc_twitter">Twitter</a>
 
 

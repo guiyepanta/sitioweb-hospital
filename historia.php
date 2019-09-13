@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -69,93 +68,11 @@ include("incluidos/header_top.php")
 
 
 		<!-- Sequence Slider -->
-		<div class="h15 clear"></div>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				var options = {
-					autoPlay: true,
-					autoPlayDelay: 5000,
-					nextButton: true,
-					prevButton: true,
-					preloader: true,
-					animateStartingFrameIn: true,
-					transitionThreshold: 500,
-					fallback: {
-			        	theme: "slide",
-			        	speed: 500
-			        }
-				};
 
-				var sequence = $("#sequence").sequence(options).data("sequence");
-
-				sequence.afterLoaded = function(){
-					$(".info").css('display','block');
-					$("#sequence").hover(
-					        function() {
-					        	$(".prev, .next").stop().animate({opacity:0.7},300);
-					        },
-					        function() {
-					        	$(".prev, .next").stop().animate({opacity:0},300);
-					        }
-					);
-
-					$(".prev, .next").hover(
-					        function() {
-					        	$(this).stop().animate({opacity:1},200);
-					        },
-					        function() {
-					        	$(this).stop().animate({opacity:0.7},200);
-					        }
-					);
-				}
-			})
-		</script>
 
 
 		<div class="row no_bm">
-			<div id="slider_holder" class="sixteen columns">
-				<div id="sequence">
-					<div class="prev" ><span></span></div>
-					<div class="next" ><span></span></div>
 
-					<ul>
-						<!-- Layer 1 -->
-						<li>
-							<div class="info animate-in">
-								<h2>Clean Design</h2>
-								<h3>Clear Message</h3>
-								<p>Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring</p>
-								<p><a class="link" href="services.html">View Services &raquo;</a>
-							</div>
-							<img class="slider_bgr animate-in" src="images/1.jpg"/>
-							<img class="slider_img animate-in" src="images/1_1.png"/>
-						</li>
-
-						<!-- Layer 2 -->
-						<li>
-							<div class="info">
-								<h2>Slick & Smart</h2>
-								<h3>Rich Admin Options</h3>
-								<p>Fantasy is a necessary ingredient in living! Imagination is more important than knowledge. Knowledge is limited.</p>
-								<p><a class="link" href="portfolio.html">View Portfolio &raquo;</a>
-							</div>
-							<img class="slider_bgr" src="images/2.jpg"/>
-							<img class="slider_img" src="images/2_2.png"/>
-						</li>
-
-						<!-- Layer 3 -->
-						<li>
-							<div class="info">
-								<h2>White ain't bad</h2>
-								<h3>Fully Customizable</h3>
-								<p>Fantasy is a necessary ingredient in living! Imagination is more important than knowledge. Knowledge is limited.</p>
-								<p><a class="link" href="blog.html">Read Our Blog &raquo;</a>
-							</div>
-							<img class="slider_img" src="images/3.jpg"/>
-						</li>
-					</ul>
-				</div>
-			</div>
 			<!-- Sequence Slider::END-->
 		</div>
 
@@ -172,6 +89,13 @@ include("incluidos/header_top.php")
 		</div>
 		<!-- Big Title Section::END-->
 
+
+    <div class="row">
+			<div class="sixteen columns">
+				<h2 class="title"><span>Full Width</span></h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque hendrerit turpis quis nisl rhoncus ac venenatis odio tempor. Maecenas adipiscing nisl sit amet lectus laoreet interdum. Sed non elit quis eros blandit auctor in in dolor. Donec malesuada aliquam eros non tincidunt. Nam cursus lobortis enim. Etiam non faucibus lorem. Donec tincidunt velit posuere ante vehicula nec mattis justo hendrerit. Duis id sapien eget velit tincidunt egestas. Sed ac accumsan lorem. </p>
+			</div>
+		</div>
 
 		<div class="row">
 			<!-- Featured Services Section -->
