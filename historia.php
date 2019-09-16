@@ -79,21 +79,45 @@ include("incluidos/header_top.php")
 
 
 		<!-- Big Title Section -->
-		<div class="row no_bm">
-			<div class="section_big_title sixteen columns">
-				<div class="h10 divider_bgr"></div>
-				<h1>Sometimes I worry about <strong>being a success</strong> in a mediocre world</h1>
-				<h2>The richest man is not the one who has the most, but the one who needs the least...</h2>
-				<a href="portfolio.html" class="button">Portfolio</a> &nbsp; <a href="blog.html" class="button button_hilite">Our Services</a>
-			</div>
-		</div>
 		<!-- Big Title Section::END-->
 
 
-    <div class="row">
-			<div class="sixteen columns">
-				<h2 class="title"><span>Full Width</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque hendrerit turpis quis nisl rhoncus ac venenatis odio tempor. Maecenas adipiscing nisl sit amet lectus laoreet interdum. Sed non elit quis eros blandit auctor in in dolor. Donec malesuada aliquam eros non tincidunt. Nam cursus lobortis enim. Etiam non faucibus lorem. Donec tincidunt velit posuere ante vehicula nec mattis justo hendrerit. Duis id sapien eget velit tincidunt egestas. Sed ac accumsan lorem. </p>
+
+
+		<div class="row">
+			<div class="one-third column">
+				<h2 class="title"><span>Historia</span></h2>
+				<p>El Hospital Regional o Vecinal, actualmente Hospital de Área Programa, fue
+construido durante el año 1938 inaugurándose el 19 de diciembre de ese
+mismo año con 60 camas. La obra es del arquitecto Alejandro Bradinsky. El
+emprendimiento fue realizado por del Dr. Exequiel Bustillo, quien consiguió el
+financiamiento de la obra edilicia por parte de la Dirección de Parques
+Nacionales y el asesoramiento técnico y el equipamiento por parte de la
+“Comisión de Asilos y Hospitales Regionales” que dependía del Ministerio de
+Relacionas Exteriores y Culto.</p>
+			</div>
+			<div class="one-third column">
+				<h2 class="title"><span></span></h2>
+				<p>La ocupación del territorio de la actual ciudad comenzó, por parte de la
+				población blanca, en 1881. Colonos chilenos y alemanes procedentes del Sur
+				de Chile, comenzaron a establecerse en las costas del Nahuel Huapi, en
+				1895. En ese año, Carlos Wiederhold instaló un comercio en lo que hoy es la
+				planta urbana de Bariloche, iniciándose así un núcleo poblado que empezó a
+				ser llamado San Carlos. En 1902, el gobierno nacional hizo una reserva para
+				pueblo en el paraje San Carlos, el que, desde 1904 quedó dentro de la
+				Reserva Nacional Nahuel Huapi.</p>
+			</div>
+			<div class="one-third column">
+				<h2 class="title"><span></span></h2>
+				<p>Hacia 1934, la Dirección de Parques
+				Nacionales, mediante convenios con el Municipio de Bariloche, emprendió
+				una serie de obras de urbanización y embellecimiento del pueblo, así como
+				de la provisión de servicios. En 1958, siendo ya Provincia Río Negro, se
+				amplió el ejido municipal de Bariloche con la inclusión de villas situadas al
+				oeste del centro urbano original y con la incorporación de tierras de Parques
+				Nacionales, que en su mayoría fueron loteadas.  Actualmente se considera al
+				3 de mayo de 1902 como la fecha de la fundación de S. C. de Bariloche y a
+				Carlos Wiederhold como a su fundador.</p>
 			</div>
 		</div>
 
@@ -305,65 +329,7 @@ include("incluidos/header_top.php")
 	</div>
 
 	<!-- Footer -->
-	<div id="footer" class="container">
-		<div class="row footer_inside">
-		  <div class="four columns">
-		    <h3>About Us</h3>
-		    <p>Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds. Explore. Dream. Discover.</p>
-		  </div>
-		  <div class="four columns">
-		    <h3 class="margined_left">Footer Navigation</h3>
-		    <ul class="margined_left">
-		    	<li><a href="">Home</a></li>
-		    	<li><a href="">Our Services</a></li>
-		    	<li><a href="">Recent Work</a></li>
-		    	<li><a href="">Our Blog</a></li>
-		    	<li><a href="">About Us</a></li>
-		    	<li><a href="">Contact Us</a></li>
-		    </ul>
-		  </div>
-		  <div class="four columns">
-		    <h3>Latest News</h3>
-			<div class="footer_news_item clearfix">
-				<div class="footer_pic">
-					<a href=""><img src="images/footer_th1.jpg"/></a>
-				</div>
-				<h4><a href="">Those who mind don't matter, and vice-versa.</a></h4>
-				<p class="date">8 Sept., 2012</p>
-			</div>
-			<div class="footer_news_item clearfix">
-				<div class="footer_pic">
-					<a href=""><img src="images/footer_th2.jpg"/></a>
-				</div>
-				<h4><a href="">Be yourself; everyone else is already taken.</a></h4>
-				<p class="date">2 Sept., 2012</p>
-			</div>
-		  </div>
-
-		  <div class="four columns">
-		  	<h3>Get in Touch with Us</h3>
-		  	<div class='icon_phone' title='Phone'>(792) 567 8745</div>
-		    <div class='icon_mail' title='Email'>contact@aquacart.com</div>
-		    <div class='icon_loc' title='Location'>3451 52nd Ave., New York City</div>
-
-		  	<div class='clear'></div>
-		  	<div class='h10'></div>
-
-		  </div>
-	  </div>
-	  <div class="clear"></div>
-	  <div class="footer_btm">
-	  	<div class="footer_btm_inner">
-		  	<a href="https://www.pinterest.com" target='_blank' class='icon_pinterest' title='Pinterest'>Pinterest</a>
-	      	<a href="https://www.twitter.com" target='_blank' class='icon_tweet' title='Tweeter'>Tweeter</a>
-			<a href="https://www.skype.com" class='icon_skype' title='Skype'>Skype</a>
-		  	<a href="https://www.google.com" target='_blank' class='icon_google' title='Google+'>Google+</a>
-	      	<a href="https://www.facebook.com" target='_blank' class='icon_facebook' title='Facebook'>Facebook</a>
-
-		  	<div id="powered"><a href="https://themeforest.net/user/blueowlcreative/portfolio?ref=blueowlcreative" target="_blank">AquaCart Theme</a> © 2012 &nbsp; | &nbsp; <a href="http://www.blueowlcreative.com" target="_blank">BlueOwlCreative</a></div>
-		</div>
-	  </div>
-	</div>
+<?php include("incluidos/footer.php"); ?>
 	<!-- Footer::END -->
 
   </div>

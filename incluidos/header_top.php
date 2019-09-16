@@ -1,6 +1,6 @@
 <div class="header clearfix row">
   <div class="eight columns header_left">
-    <a href="index.php"><img src="images/logo.png"/></a>
+    <a href="index.php"><img src="images/logo1.png"/></a>
   </div>
   <div class="eight columns">
     <div class="header_right">

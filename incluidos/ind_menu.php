@@ -113,24 +113,24 @@
 </div>
 
 //////////////////////////////////////////////////////////////////////////////////////
-dou
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="row no_bm">
   <div class="custom_menu sixteen columns">
     <div id="menu">
       <ul>
-        <li><a href="index.html"><span class="home_icon"></span></a></li>
-          <li><a href="index.html">Inicio<span></span></a>
+        <li><a href="index.php"><span class="home_icon"></span></a></li>
+          <li><a href="index.php">Inicio<span></span></a>
              <div>
                   <ul>
-                <li><a href="index.html"><span>Home Version 1</span></a></li>
-                <li><a href="index2.html"><span>Home Version 2</span></a></li>
-                <li><a href="index3.html" class="last_submenu_item"><span>Home Version 3</span></a></li>
+                <li><a href="index.php"><span>Home Version 1</span></a></li>
+                <li><a href="index.php"><span>Home Version 2</span></a></li>
+                <li><a href="index.php" class="last_submenu_item"><span>Home Version 3</span></a></li>
             </ul>
              </div>
           </li>
-          <li><a href="services.html">Hospital<span></span></a>
+          <li><a href="historia.php">Hospital<span></span></a>
             <div>
                   <ul>
                 <li><a href="mision.php"><span>Mision</span></a></li>

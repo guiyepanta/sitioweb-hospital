@@ -748,7 +748,11 @@ a:hover.button_pale{
 }
 
 .header_left img{
-	margin: 66px 0 0 20px;
+	margin: 25px 0 0 20px;
+}
+.header img{
+	width: 270px;
+	height: 125px;
 }
 
 .header_contacts {
