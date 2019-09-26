@@ -35,8 +35,8 @@
 
     <div class="four columns">
       <h3>Get in Touch with Us</h3>
-      <div class='icon_phone' title='Phone'>(792) 567 8745</div>
-      <div class='icon_mail' title='Email'>contact@aquacart.com</div>
+      <div class='icon_phone' title='Phone'>+54 0294 442-6100</div>
+      <div class='icon_mail' title='Email'>direccion@hospitalbariloche.com.ar</div>
       <div class='icon_loc' title='Location'>3451 52nd Ave., New York City</div>
 
       <div class='clear'></div>

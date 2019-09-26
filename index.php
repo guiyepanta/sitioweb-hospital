@@ -64,7 +64,7 @@ include("incluidos/header_top.php")
 ?>
 
 		<!-- Main Navigation -->
-	<?php include("incluidos/ind_menu.php");?>
+	<?php include("incluidos/ind_menu1.php");?>
 		<!-- Main Navigation::END -->
 
 
@@ -162,14 +162,7 @@ include("incluidos/header_top.php")
 
 
 		<!-- Big Title Section -->
-		<div class="row no_bm">
-			<div class="section_big_title sixteen columns">
-				<div class="h10 divider_bgr"></div>
-				<h1>Sometimes I worry about <strong>being a success</strong> in a mediocre world</h1>
-				<h2>The richest man is not the one who has the most, but the one who needs the least...</h2>
-				<a href="portfolio.html" class="button">Portfolio</a> &nbsp; <a href="blog.html" class="button button_hilite">Our Services</a>
-			</div>
-		</div>
+
 		<!-- Big Title Section::END-->
 
 
