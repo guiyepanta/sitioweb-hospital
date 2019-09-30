@@ -79,7 +79,7 @@
 		-o-transition: all 0.2s linear;
 		transition: all 0.2s linear;
 	}
-	a:hover, a:focus { color: #0ad1e5; }
+	a:hover, a:focus { color: #42ae8d; }
 	p a, p a:visited { line-height: inherit; }
 
 
@@ -227,7 +227,7 @@
 	input[type="reset"]:hover,
 	input[type="button"]:hover {
 
-		background-color: #0ad1e5;
+		background-color: #42ae8d;
 
 	  }
 
@@ -259,7 +259,7 @@
 	}
 
 .button_hilite, a.button_hilite{
-	background-color: #0ad1e5;
+	background-color: #42ae8d;
 }
 .button_hilite:hover, a:hover.button_hilite{
 	background-color: #374045;
@@ -495,7 +495,7 @@ a:hover.button_pale{
 
 /* Custom Nav */
 .custom_menu #menu {
-    background: #0ad1e5 url('../../images/grad_menu.png') top left repeat-x;
+    background: #42ae8d url('../../images/grad_menu.png') top left repeat-x;
 }
 .custom_menu  #menu > ul > li > a .home_icon{
     background: url('../../images/home_icon.png') center center no-repeat;
@@ -508,7 +508,7 @@ a:hover.button_pale{
     padding:0;
 }
 .custom_menu #menu > ul > li > a {
-    background: #0ad1e5 url('../../images/grad_menu.png') top left repeat-x;
+    background: #42ae8d url('../../images/grad_menu.png') top left repeat-x;
     text-shadow: none;
     color: #fff;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
@@ -907,7 +907,7 @@ a:hover.header_soc_rss {
 .section_big_title h1 strong{
 	font-weight: 400;
 	text-transform: uppercase;
-	color:#0ad1e5;
+	color:#42ae8d;
 }
 .section_big_title h2{
 	margin: 2px 0 22px;
@@ -1073,7 +1073,7 @@ a:hover .img_overlay_zoom {
 	color: #555;
 }
 .section_featured_texts h3 a:hover{
-	color: #0ad1e5;
+	color: #42ae8d;
 }
 .section_featured_texts p {
 	color: #777;
@@ -1406,7 +1406,7 @@ ul.checked li {
     line-height: 20px;
 }
 .breadcrumb a:hover {
-	color:#0ad1e5;
+	color:#42ae8d;
 }
 .breadcrumb a span{
 	display: block;
@@ -1598,7 +1598,7 @@ ul.checked li {
 	color: #888;
 	}
 .post_meta a:hover{
-	color: #0ad1e5;
+	color: #42ae8d;
 	}
 
 .calendar {
@@ -1848,7 +1848,7 @@ li.comment ol.comment_sub {
 	font-weight: 400;
 }
 .pagination .links a:hover {
-	background-color: #0ad1e5;
+	background-color: #42ae8d;
 	color: white;
 	text-shadow: none;
 }
@@ -1949,7 +1949,7 @@ li.comment ol.comment_sub {
 }
 .portfolio_filter div.current{
 	color: #fff;
-	background-color: #0ad1e5;
+	background-color: #42ae8d;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -2168,7 +2168,7 @@ li.comment ol.comment_sub {
 }
 
 .next:hover,.prev:hover {
-	background: #0ad1e5;
+	background: #42ae8d;
 }
 .next:hover span,.prev:hover span{
 	background-position-y: -21px;
@@ -2224,7 +2224,7 @@ li.comment ol.comment_sub {
 .info  h2{
 	color: #fff;
 /*	text-shadow: 0 1px 0 rgba(0,0,0,0.2);*/
-	background: #0ad1e5;
+	background: #42ae8d;
 	padding: 0px 7px;
 	font-size: 38px;
 	line-height: 45px;
@@ -2532,7 +2532,7 @@ a.icon_google:hover {
 	transition: all 0.2s ease-out;
 }
 #footer a:hover {
-	color:#0ad1e5;
+	color:#42ae8d;
 }
 
 .footer_pic img{
@@ -2547,7 +2547,7 @@ a.icon_google:hover {
 	transition: all 0.3s linear;
 }
 .footer_pic img:hover{
-	border: 3px solid #0ad1e5;
+	border: 3px solid #42ae8d;
 }
 .footer_news_item {
 	font-size: 11px;
